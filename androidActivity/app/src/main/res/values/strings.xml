@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">androidActivity</string>
+    <string name="type_data">Type data</string>
+    <string name="editText_main">Enter your message</string>
+    <string name="button_main">button main</string>
+    <string name="send">Send</string>
+    <string name="text_header">Message received</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="button_second">Reply</string>
+    <string name="text_header_reply">Reply Received</string>
+</resources>
